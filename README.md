@@ -1,2 +1,4 @@
 # Recursive-Circle
-This program utilizes the OpenCV API in order to find the green object in a picture. I am currently working on making so that the program will then display a new image on top of the green object.
+This program utilizes the OpenGL API to recursively create a circle. I used this algorithm to then create a cylinder. Edit
+Add topics
+
